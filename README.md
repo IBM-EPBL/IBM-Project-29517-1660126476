@@ -10,8 +10,8 @@
 # Team Members :
 |   **Title**   |      **Name**     |
 |:-----------:|:-----------------:|
-| Team Leader   | **RISHKUMAR K**     |
-| Team Member 1 | **CHANDRU K**   |
+| Team Leader   | **CHANDRU K**     |
+| Team Member 1 | **RISHKUMAR K**   |
 | Team Member 2 | **SUJI D**|
 | Team Member 3 | **GIRIHARAN K**       |
 | Team Member 4 | **KESAVA RAMAN K**     |
